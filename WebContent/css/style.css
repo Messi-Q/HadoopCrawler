@@ -1,0 +1,25 @@
+table{
+	 border-collapse: collapse;
+}
+td {
+    color: #333333;
+    font-family: "Microsoft Yahei";
+    font-size: 12px;
+    word-wrap: break-word;
+}
+.title{
+	font-family: "Microsoft Yahei" ;
+	font-weight: bold ;
+	background-color: #f7f7f7;
+}
+.box2 {
+    border: #CCCCCC solid 1px;
+    color: #000000;
+    font-size: 12px;
+	width:100px;
+}
+.errmsg {
+    color: #FF0000;
+    font-size: 12px;
+    text-align:center;
+}
