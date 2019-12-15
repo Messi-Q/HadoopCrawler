@@ -1,2 +1,3 @@
 # HadoopCrawler
-这是一个大数据爬虫项目
+
+This is a project about the hadoop crawler.
